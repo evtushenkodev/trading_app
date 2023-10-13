@@ -1,0 +1,1 @@
+## Project trading app on framework FastAPI
